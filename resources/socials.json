@@ -1,0 +1,14 @@
+{
+    "items": [
+        {
+            "link": "#",
+            "name": "facebook",
+            "icon": "facebook-square"
+        },
+        {
+            "link": "#",
+            "name": "youtube",
+            "icon": "youtube-square"
+        }
+    ]
+}

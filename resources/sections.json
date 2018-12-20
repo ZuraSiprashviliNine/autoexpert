@@ -1,0 +1,38 @@
+{
+    "available": [
+        "home",
+        "wsd",
+        "about",
+        "video",
+        "wwc",
+        "services",
+        "contact"
+    ],
+    "info": {
+        "home": {
+            "titles": {
+                "left": "xxx",
+                "right": "what we check"
+            }
+        },
+        "wwc": {
+            "title": "WHAT WE CHECK",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat voluptates, dolore sed saepe necessitatibus nemo accusantium distinctio officiis omnis suscipit magni voluptatibus molestiae cum tenetur magnam autem assumenda iusto inventore."
+        },
+        "wsd": {
+            "title": "what resllers do",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat voluptates, dolore sed saepe necessitatibus nemo accusantium distinctio officiis omnis suscipit magni voluptatibus molestiae cum tenetur magnam autem assumenda iusto inventore."
+        },
+        "video":{
+            "html": "<iframe src=\"https://www.youtube.com/embed/W9P_qUnMaFg\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+        },
+        "services": {
+            "title": "services",
+            "description": "hello world"
+        },
+        "contact": {
+            "title": "contact",
+            "description": "keep in touch"
+        }
+    }
+}
